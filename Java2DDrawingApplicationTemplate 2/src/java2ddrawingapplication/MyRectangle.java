@@ -10,10 +10,7 @@ import java.awt.Point;
 import java.awt.Stroke;
 import java.awt.geom.Rectangle2D;
 
-/**
- *
- * @author al
- */
+
 public class MyRectangle extends MyBoundedShapes{
     
     public MyRectangle(Point pntA, Point pntB, Paint paint, Stroke strk, boolean filled)
