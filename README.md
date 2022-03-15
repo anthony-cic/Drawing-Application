@@ -7,3 +7,5 @@ A java application made for drawing select shapes and lines. The draw panel belo
 
 
 The drawing application includes functionality for undo & clear buttons, as well as a variety of user custimizable colors, gradients, length, width, dashed length, dash width. 
+
+In this repository you will find a folder containing all contents neccessary to Zip and run on Apache Netbeans. By navigating to src/java2ddrawingapplication you will find the .java files and code written for this project. 
