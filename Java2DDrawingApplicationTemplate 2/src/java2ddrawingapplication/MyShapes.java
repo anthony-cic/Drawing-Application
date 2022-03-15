@@ -11,10 +11,8 @@ import java.awt.Paint;
 import java.awt.Point;
 import java.awt.Stroke;
 
-/**
- *
- * @author al
- */
+
+
 public abstract class MyShapes {
     private Point startPoint = new Point();
     private Point endPoint = new Point();
