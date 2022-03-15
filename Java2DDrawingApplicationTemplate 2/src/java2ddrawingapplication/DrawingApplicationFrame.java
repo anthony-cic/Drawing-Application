@@ -79,7 +79,7 @@ public class DrawingApplicationFrame extends JFrame implements ActionListener
     
     
 
-    // add status label
+    // status label
     private final JLabel statusBar = new JLabel();
     
     // Constructor for DrawingApplicationFrame
@@ -88,7 +88,7 @@ public class DrawingApplicationFrame extends JFrame implements ActionListener
         super("Java 2D Drawings");
         
         
-        // add widgets to panels
+        // widgets to panels
         // firstLine widgets
         
         line1.add(label1);
@@ -155,9 +155,8 @@ public class DrawingApplicationFrame extends JFrame implements ActionListener
         }
         
     }  
-    // Create event handlers, if needed
 
-    // Create a private inner class for the DrawPanel.
+    // private inner class for the DrawPanel.
     private class DrawPanel extends JPanel
     {
         Paint paint;
