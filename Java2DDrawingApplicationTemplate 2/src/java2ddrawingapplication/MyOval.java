@@ -10,10 +10,7 @@ import java.awt.Point;
 import java.awt.Stroke;
 import java.awt.geom.Ellipse2D;
 
-/**
- *
- * @author al
- */
+
 public class MyOval extends MyBoundedShapes{
     
     public MyOval(Point pntA, Point pntB, Paint paint, Stroke strk, boolean filled)
